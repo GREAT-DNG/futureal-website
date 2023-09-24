@@ -6,4 +6,4 @@ If you have questions, suggestions or bug reports about the game, write to [Issu
 
 Mail: [greatdng at gmail.com](mailto:greatdng@gmail.com)
 
-[Website repository (GitHub)](https://github.com/GREAT-DNG/futureal.github.io)
+[Website repository (GitHub)](https://github.com/GREAT-DNG/futureal-website)
