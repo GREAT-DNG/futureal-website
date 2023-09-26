@@ -2,7 +2,7 @@ title: "Futureal"
 description: "Futureal website"
 footer: "Futureal (c) GREAT DNG 2022-2023"
 header_pages:
-    - futureal.md
+    - index.md
     - download.md
     - about.md
 
