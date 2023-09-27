@@ -9,9 +9,9 @@ At the moment there are difficulties with the automatic build of the game, so yo
 
 Instructions:
 1. Download the engine:
- - [Windows]();
- - [Linux]();
- - [MacOS]();
+ - [Windows](https://github.com/godotengine/godot/releases/download/3.5.3-stable/Godot_v3.5.3-stable_win64.exe.zip);
+ - [Linux](https://github.com/godotengine/godot/releases/download/3.5.3-stable/Godot_v3.5.3-stable_x11.64.zip);
+ - [Mac OS X](https://github.com/godotengine/godot/releases/download/3.5.3-stable/Godot_v3.5.3-stable_osx.universal.zip);
 2. Download the sources:
  - [master](https://github.com/GREAT-DNG/Futureal/archive/refs/heads/master.zip);
  - [develop](https://github.com/GREAT-DNG/Futureal/archive/refs/heads/develop.zip);
