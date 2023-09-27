@@ -1,9 +1,10 @@
 title: "Futureal"
-description: "Futureal website"
+description: "Official Futureal game website"
 footer: "Futureal (c) GREAT DNG 2022-2023"
 header_pages:
     - index.md
     - download.md
+    - docs.md
     - about.md
 
 listen_for_clients_preferred_style: true

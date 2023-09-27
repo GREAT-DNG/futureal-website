@@ -2,7 +2,7 @@
 title: "Futureal"
 ---
 
-# Futureal
+![](Logo.png)
 
 You are on the official website of the Futureal project. This is a free and open source simple shooting 2D platformer built on the [Godot Engine](https://godotengine.org/) (current version is 3.5.3 LTS) using the GDScript language.
 
