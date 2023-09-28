@@ -1,6 +1,6 @@
 title: "Futureal"
 description: "Official Futureal game website"
-footer: "Futureal (c) GREAT DNG 2022-2023"
+footer: "(c) GREAT DNG 2022-2023"
 header_pages:
     - index.md
     - download.md
@@ -8,5 +8,3 @@ header_pages:
     - about.md
 
 listen_for_clients_preferred_style: true
-
-remote_theme: b2a3e8/jekyll-theme-console
