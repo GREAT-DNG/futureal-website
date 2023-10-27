@@ -4,10 +4,11 @@
 
 :root {
   --base-color: #DBDBDB;
-  --border: solid 2px rgba(219, 219, 219, 0.9);
-  --selection-background: rgba(219, 219, 219, 0.99);
+  --border: solid 2px var(--base-color);
+  --selection-background: var(--base-color);
   --selection-text: #000;
   --background-color: #000;
+  --code-background-color: #252525;
   --text-color: var(--base-color);
   --placeholder-color: var(--base-color);
   --link-color: var(--base-color);
