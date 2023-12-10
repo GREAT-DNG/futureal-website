@@ -83,6 +83,7 @@ Select the enemy type (0 to 2), make the scene instance `res://Scenes/Enemies/En
 
 Enemy Properties:
 - `Health` - enemy's health;
+- `Health Difference` - the number subtracted from `Health` at an easy difficulty level and added at a hard difficult level;
 - `Speed` - speed of movement;
 - `Lethargy` - slowness when shooting;
 - `Gun ID` - enemy's weapon. For convenience of selection in the inspector id's are replaced by names;
