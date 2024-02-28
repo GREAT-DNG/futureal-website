@@ -46,7 +46,7 @@ const LEVELS: Dictionary = {
 1. Create the walls and floors of the level in the `BlocksTileMap` tile map. Recommendations:
 - Compose the tiles so that the line on them is on the player's side;
 - Create floors under the guides;
-2. Create a background in the `EnvironmentTileMap` tile map. Recommendations (the tile numbers correspond to the file names (starting from zero) in `res://Sprites/Environment/` and the order in the tailset):
+2. Create a background in the `EnvironmentTileMap` tile map. Recommendations (the tile numbers correspond to the file names (starting from zero) in `res://Sprites/Environment/` and the order in the tileset):
 - Use the first tile for the outdoor floor;
 - Use the second tile for the background walls inside the room;
 - Use the third tile for transitions from indoors to outdoors;
